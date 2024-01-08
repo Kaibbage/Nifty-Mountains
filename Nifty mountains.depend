@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1620263775 source:c:\users\kais9\onedrive\desktop\codeblocks projects\nifty mountains\main.cpp
+	<iostream>
+	<fstream>
+	<apmatrix.h>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
